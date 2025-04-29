@@ -14,7 +14,7 @@ import logging
 #%%
 
 # Set up the title and company image
-st.image("https://via.placeholder.com/150", width=150)  # Replace with your company's logo URL
+st.image("https://resustainability.com/wp-content/uploads/2022/12/Logo-red-1.svg", width=150)  # Replace with your company's logo URL
 st.title("Metal Price Forecasting")
 
 # option = st.sidebar.radio("Choose an option", ("Update Data", "Forecasting"))
